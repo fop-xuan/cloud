@@ -1,0 +1,28 @@
+html,
+body {
+  height: 100%;
+}
+body {
+  overflow-y: hidden;
+  margin: 0;
+}
+input,
+a,
+button {
+  padding: 0;
+  border: none;
+  outline: none;
+  -webkit-tap-highlight-color: transparent;
+}
+img {
+  vertical-align: top;
+}
+a {
+  color: #000;
+  text-decoration: none;
+}
+ul {
+  margin: 0;
+  list-style: none;
+  padding: 0;
+}
